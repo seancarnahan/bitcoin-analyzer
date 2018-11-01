@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{202:function(n,o,p){__NEXT_REGISTER_PAGE("/about",function(){return n.exports=p(203),{page:n.exports.default}})},203:function(n,o){}},[[202,0]]]);
