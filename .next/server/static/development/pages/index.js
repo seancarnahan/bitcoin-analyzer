@@ -338,7 +338,7 @@ function (_React$Component) {
           },
           __self: this
         }, "Bitcoin rate for ", this.props.bpi.USD.description, ": ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-          class: "badge badge-primary",
+          className: "badge badge-primary",
           __source: {
             fileName: _jsxFileName,
             lineNumber: 13
@@ -360,7 +360,7 @@ function (_React$Component) {
           },
           __self: this
         }, "Bitcoin rate for ", this.props.bpi.GBP.description, ": ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-          class: "badge badge-primary",
+          className: "badge badge-primary",
           __source: {
             fileName: _jsxFileName,
             lineNumber: 19
@@ -382,7 +382,7 @@ function (_React$Component) {
           },
           __self: this
         }, "Bitcoin rate for ", this.props.bpi.EUR.description, ": ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-          class: "badge badge-primary",
+          className: "badge badge-primary",
           __source: {
             fileName: _jsxFileName,
             lineNumber: 25
